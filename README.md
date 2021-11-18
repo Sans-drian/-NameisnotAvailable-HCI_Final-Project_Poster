@@ -1,4 +1,4 @@
-# A_Tribute_Page_
+# Final Project Poster
 L1BC
 
 Teamname  : 
