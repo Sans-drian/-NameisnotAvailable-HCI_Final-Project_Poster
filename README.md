@@ -1,4 +1,4 @@
-# Final Project Poster
+# Final Project Poster by [NameisnotAvailable]
 
 Class/Course: L1BC/Human Computer Interaction (COMP6800001)
 
