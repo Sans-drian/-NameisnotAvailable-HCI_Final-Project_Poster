@@ -1,9 +1,8 @@
 # Final Project Poster
 L1BC
 
-Teamname  : 
+Teamname  : [NameisnotAvailable]
 
-Member    : Sandrian
-            Christopher Owen
+Member    : Sandrian and Christopher Owen
 
 Desc      :
